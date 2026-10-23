@@ -1,0 +1,12 @@
+C:\Users\Gianina\OneDrive\Desktop\pitman\StudentCodeFirst_GitHub_Project\StudentCodeFirst\StudentCodeFirst\bin\Debug\StudentCodeFirst.exe.config
+C:\Users\Gianina\OneDrive\Desktop\pitman\StudentCodeFirst_GitHub_Project\StudentCodeFirst\StudentCodeFirst\bin\Debug\StudentCodeFirst.exe
+C:\Users\Gianina\OneDrive\Desktop\pitman\StudentCodeFirst_GitHub_Project\StudentCodeFirst\StudentCodeFirst\bin\Debug\StudentCodeFirst.pdb
+C:\Users\Gianina\OneDrive\Desktop\pitman\StudentCodeFirst_GitHub_Project\StudentCodeFirst\StudentCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Gianina\OneDrive\Desktop\pitman\StudentCodeFirst_GitHub_Project\StudentCodeFirst\StudentCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gianina\OneDrive\Desktop\pitman\StudentCodeFirst_GitHub_Project\StudentCodeFirst\StudentCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Gianina\OneDrive\Desktop\pitman\StudentCodeFirst_GitHub_Project\StudentCodeFirst\StudentCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gianina\OneDrive\Desktop\pitman\StudentCodeFirst_GitHub_Project\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.csproj.AssemblyReference.cache
+C:\Users\Gianina\OneDrive\Desktop\pitman\StudentCodeFirst_GitHub_Project\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Gianina\OneDrive\Desktop\pitman\StudentCodeFirst_GitHub_Project\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentC.883F8DAD.Up2Date
+C:\Users\Gianina\OneDrive\Desktop\pitman\StudentCodeFirst_GitHub_Project\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.exe
+C:\Users\Gianina\OneDrive\Desktop\pitman\StudentCodeFirst_GitHub_Project\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.pdb
